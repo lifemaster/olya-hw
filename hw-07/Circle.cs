@@ -2,7 +2,7 @@
 
 namespace hw_07
 {
-    class Circle : Shape
+    public class Circle : Shape
     {
         public double Radius { get; }
 

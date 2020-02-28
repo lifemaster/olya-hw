@@ -2,7 +2,7 @@
 
 namespace hw_07
 {
-    class Square : Shape
+    public class Square : Shape
     {
         public double Side { get; }
 

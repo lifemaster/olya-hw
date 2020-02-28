@@ -2,7 +2,7 @@
 
 namespace hw_07
 {
-    abstract class Shape : IComparable<Shape>
+    abstract public class Shape : IComparable<Shape>
     {
         private readonly string name;
 
